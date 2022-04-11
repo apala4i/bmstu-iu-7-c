@@ -1,0 +1,15 @@
+onion
+30
+40
+onion
+20
+40
+onion
+40
+50
+hello
+10
+30
+iron
+10
+12

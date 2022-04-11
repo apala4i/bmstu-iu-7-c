@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/C_labs/RK_22_19/funcs.h
+stdio.h
+C:/C_labs/RK_22_19/stdio.h
+string.h
+C:/C_labs/RK_22_19/string.h
+ctype.h
+C:/C_labs/RK_22_19/ctype.h
+
+C:/C_labs/RK_22_19/main.c
+stdio.h
+-
+funcs.h
+C:/C_labs/RK_22_19/funcs.h
+

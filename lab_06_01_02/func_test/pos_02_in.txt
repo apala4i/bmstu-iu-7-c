@@ -1,0 +1,12 @@
+iron
+12
+10
+metal
+30
+40
+onion
+10
+12
+pepper
+10
+10

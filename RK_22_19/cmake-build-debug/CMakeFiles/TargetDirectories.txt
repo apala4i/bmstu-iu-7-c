@@ -1,0 +1,3 @@
+C:/C_labs/RK_22_19/cmake-build-debug/CMakeFiles/RK_22_19.dir
+C:/C_labs/RK_22_19/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/C_labs/RK_22_19/cmake-build-debug/CMakeFiles/rebuild_cache.dir

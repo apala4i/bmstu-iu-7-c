@@ -1,0 +1,1 @@
+Input count of array elements: There are 3 local minimums

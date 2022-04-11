@@ -1,0 +1,1 @@
+Average negative = -3.000000

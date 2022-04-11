@@ -1,0 +1,12 @@
+iron
+12
+12
+metal
+10
+10
+jojo
+40
+40
+welcome
+30
+40
